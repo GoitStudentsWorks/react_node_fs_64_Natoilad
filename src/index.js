@@ -33,7 +33,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <GlobalStyle />
       <Provider store={store}>
         <PersistGate loading={null} persistor={persistR}>
-          <BrowserRouter basename="/tasksprofrontend">
+          <BrowserRouter basename="/react_node_fs_64_Natoilad">
             <App />
           </BrowserRouter>
         </PersistGate>
