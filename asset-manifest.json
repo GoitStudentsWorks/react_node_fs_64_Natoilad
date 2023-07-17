@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_64_Natoilad/static/css/main.b156aabb.css",
-    "main.js": "/react_node_fs_64_Natoilad/static/js/main.79c7a951.js",
+    "main.js": "/react_node_fs_64_Natoilad/static/js/main.d33c6c79.js",
     "static/js/968.20f40d52.chunk.js": "/react_node_fs_64_Natoilad/static/js/968.20f40d52.chunk.js",
     "static/js/427.a57f1d3e.chunk.js": "/react_node_fs_64_Natoilad/static/js/427.a57f1d3e.chunk.js",
     "static/css/354.d9edba72.chunk.css": "/react_node_fs_64_Natoilad/static/css/354.d9edba72.chunk.css",
@@ -12,7 +12,7 @@
     "static/media/boy.png": "/react_node_fs_64_Natoilad/static/media/boy.18cd06cd3e6a06f73b1f.png",
     "index.html": "/react_node_fs_64_Natoilad/index.html",
     "main.b156aabb.css.map": "/react_node_fs_64_Natoilad/static/css/main.b156aabb.css.map",
-    "main.79c7a951.js.map": "/react_node_fs_64_Natoilad/static/js/main.79c7a951.js.map",
+    "main.d33c6c79.js.map": "/react_node_fs_64_Natoilad/static/js/main.d33c6c79.js.map",
     "968.20f40d52.chunk.js.map": "/react_node_fs_64_Natoilad/static/js/968.20f40d52.chunk.js.map",
     "427.a57f1d3e.chunk.js.map": "/react_node_fs_64_Natoilad/static/js/427.a57f1d3e.chunk.js.map",
     "354.d9edba72.chunk.css.map": "/react_node_fs_64_Natoilad/static/css/354.d9edba72.chunk.css.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.b156aabb.css",
-    "static/js/main.79c7a951.js"
+    "static/js/main.d33c6c79.js"
   ]
 }
